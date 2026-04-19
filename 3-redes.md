@@ -56,11 +56,15 @@ docker network ls
 
 ### Crear los contenedores y las redes que se presentan en el esquema. Usar para todos los contenedores la imagen de nginx:alpine
 
-!\[Imagen](esquema-ejercicio-redes.PNG)
+!\[Imagen](esquema-ejercicio-redes.png)
 
 # COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
 
+!\[Imagen](redes_existentes.png)
+
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+
+!\[Imagen](vinculacion_redes.png)
 
 ### Para eliminar las redes creadas
 
